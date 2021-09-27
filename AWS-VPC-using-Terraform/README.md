@@ -1,4 +1,4 @@
-# Designing a 3 Tier AWS VPC with NAT Gateways using Terraform
+## Designing a 3 Tier AWS VPC with NAT Gateways using Terraform
 
 ## Execute Terraform Commands
 
